@@ -1,0 +1,10 @@
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\bin\Debug\InventarioTech.exe.config
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\bin\Debug\InventarioTech.exe
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\bin\Debug\InventarioTech.pdb
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\obj\Debug\InventarioTech.csproj.AssemblyReference.cache
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\obj\Debug\InventarioTech.FormInventario.resources
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\obj\Debug\InventarioTech.Properties.Resources.resources
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\obj\Debug\InventarioTech.csproj.GenerateResource.cache
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\obj\Debug\InventarioTech.csproj.CoreCompileInputs.cache
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\obj\Debug\InventarioTech.exe
+C:\Users\juand\source\repos\InventarioTech\InventarioTech\obj\Debug\InventarioTech.pdb
